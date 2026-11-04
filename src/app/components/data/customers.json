@@ -1,0 +1,38 @@
+[
+  {
+    "id": 847,
+    "name": "Aryan Devkiran",
+    "phone": "",
+    "email": "aryan.devkiran@example.com",
+    "createdAt": "2026-08-01",
+    "status": "Activated",
+    "isVendor": "No"
+  },
+  {
+    "id": 846,
+    "name": "Mohsin Shaikh",
+    "phone": "",
+    "email": "mohsinshaikh621@gmail.com",
+    "createdAt": "2026-08-01",
+    "status": "Activated",
+    "isVendor": "No"
+  },
+  {
+    "id": 842,
+    "name": "Tanveer",
+    "phone": "+917838298018",
+    "email": "tanveer@example.com",
+    "createdAt": "2026-07-31",
+    "status": "Activated",
+    "isVendor": "No"
+  },
+  {
+    "id": 840,
+    "name": "Arhaan",
+    "phone": "9726236736",
+    "email": "arhaan@example.com",
+    "createdAt": "2026-07-31",
+    "status": "Activated",
+    "isVendor": "No"
+  }
+]

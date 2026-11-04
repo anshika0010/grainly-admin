@@ -1,0 +1,270 @@
+{
+    "success": true,
+    "product": {
+        "id": 4,
+        "slug": "warflex",
+        "sku": "PRO-P-002",
+        "name": "WARFLEX",
+        "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+        "amazonLink": "",
+        "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+        "title": "Warflex is a high-stim test booster pre-workout with boron citrate that is formulated for the healthy adult who is familiar with stimulant based sport nutrition products. High performance and high-intense workout readiness and focus.",
+        "description": "Warflex is an advanced pre-workout formulated for serious and experienced fitness users. It includes ingredients that are scientifically formulated blend to support in preparing athletes and gym goers both mentally and physically. It includes like beta alanine, taurine, alpha gpc, and other caffeine compounds for better performance and strength. This product is manufactured in a cgmp certified facility.",
+        "status": "active",
+        "categoryId": 2,
+        "createdAt": "2026-08-04T08:51:18.336Z",
+        "seo": {
+            "og": {
+                "url": "",
+                "type": "product",
+                "image": "https://www.promolecules.co.in/promolecules-logo.webp",
+                "title": "Warflex High Stim Pre Workout | Energy & Performance",
+                "locale": "",
+                "image_alt": "",
+                "site_name": "",
+                "description": ""
+            },
+            "geo": {
+                "region": "AE-DU",
+                "placename": "Dubai"
+            },
+            "title": "Warflex Pre Workout | Best gym Supplement in India | Promolecules",
+            "author": "Promolecules™",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "twitter": {
+                "card": "summary_large_image",
+                "site": "",
+                "image": "",
+                "title": "Warflex High Stim Pre Workout | Energy & Performance",
+                "image_alt": "",
+                "description": ""
+            },
+            "keywords": "warflex, warflex pre workout, best pre workout india, pre workout powder, gym supplement, workout energy, nitric oxide booster, muscle pump, sports nutrition, bodybuilding supplements",
+            "language": "English",
+            "canonical": "https://www.promolecules.co.in/product/warflex/",
+            "publisher": "Promolecules™",
+            "description": "Warflex Pre Workout | Best gym Supplement in India | Promolecules"
+        },
+        "images": [
+            "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+            "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+            "/Promolecules/warflex3.webp",
+            "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+        ],
+        "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+        "keyBenefits": [
+            "Supports high workout energy with multiple caffeine sources.",
+            "Enhances focus, concentration, and mental alertness.",
+            "Supports strength, power, and performance during intense training.",
+            "Promotes muscle pumps through nitric oxide support.",
+            "Helps improve muscular endurance and workout capacity.",
+            "Includes Boron Citrate for advanced sports nutrition support.",
+            "Supports hydration and electrolyte balance.",
+            "Designed for advanced athletes seeking maximum workout intensity."
+        ],
+        "whychooseus": [
+            "Advanced formula with stimulants, creatine, pump enhancers, and nootropics.",
+            "Supports energy, focus, endurance, and workout performance.",
+            "Promotes better muscle pumps and training motivation.",
+            "Ideal for bodybuilding, strength training, and high-performance workouts.",
+            "Created for experienced pre-workout users and advanced athletes."
+        ],
+        "whoShouldUse": [
+            "Experienced bodybuilders",
+            "Strength athletes",
+            "Powerlifters or heavy weight lifters",
+            "Cross training athletes",
+            "Advanced gym-goers",
+            "Experienced pre-workout users"
+        ],
+        "howToUse": [
+            "Mix 1/2 scoop with water 30 minutes before training to assess tolerance. If well tolerated, use 1 full scoop with water 30 minutes before your workout. Do not exceed 1 serving per day."
+        ],
+        "whatToAvoid": [
+            ""
+        ],
+        "safetyInformation": [
+            "For healthy adults aged 18 years and above.",
+            "Contains approximately 395 mg caffeine per serving.",
+            "Do not combine with other stimulant products.",
+            "Consult a healthcare professional before use if you have any medical condition or take medication.",
+            "Not recommended during pregnancy or breastfeeding.",
+            "Keep out of reach of children.",
+            "Store in a cool, dry place."
+        ],
+        "category": {
+            "id": 2,
+            "name": "ATP Booster"
+        },
+        "variants": [
+            {
+                "id": 127,
+                "productId": 4,
+                "flavour": "Fruit-Punch",
+                "size": "35",
+                "price": "2599",
+                "discountedPrice": "1499",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+            },
+            {
+                "id": 128,
+                "productId": 4,
+                "flavour": "Fruit-Punch",
+                "size": "65",
+                "price": "4599",
+                "discountedPrice": "2399",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+            },
+            {
+                "id": 129,
+                "productId": 4,
+                "flavour": "Gummies-Bliss",
+                "size": "35",
+                "price": "2599",
+                "discountedPrice": "1499",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+            },
+            {
+                "id": 130,
+                "productId": 4,
+                "flavour": "Gummies-Bliss",
+                "size": "65",
+                "price": "4599",
+                "discountedPrice": "2399",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+            },
+            {
+                "id": 131,
+                "productId": 4,
+                "flavour": "Blue-Rasberry",
+                "size": "35",
+                "price": "2599",
+                "discountedPrice": "1499",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+            },
+            {
+                "id": 132,
+                "productId": 4,
+                "flavour": "Blue-Rasberry",
+                "size": "65",
+                "price": "4599",
+                "discountedPrice": "2399",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+            },
+            {
+                "id": 133,
+                "productId": 4,
+                "flavour": "Purple-Pulse",
+                "size": "35",
+                "price": "2599",
+                "discountedPrice": "1499",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+            },
+            {
+                "id": 134,
+                "productId": 4,
+                "flavour": "Purple-Pulse",
+                "size": "65",
+                "price": "4599",
+                "discountedPrice": "2399",
+                "stockQuantity": 50,
+                "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+            }
+        ],
+        "faqs": [
+            {
+                "id": 77,
+                "productId": 4,
+                "question": "What is Warflex™?",
+                "answer": "Warflex™ is an advanced pre-workout with Boron Citrate for the advanced athlete from Promolecules. It contains Beta-Alanine, Creatine Monohydrate, Creatine HCl, L-Citrulline, Taurine, Alpha GPC, Agmatine Sulfate, Multiple Sources of Caffeine, Alpha Yohimbine, and Huperzine-A to help support workout energy, focus, strength, endurance, and performance."
+            },
+            {
+                "id": 78,
+                "productId": 4,
+                "question": "Who should use Warflex™?",
+                "answer": "Warflex™ is for healthy adults 18+ who have taken stimulant pre-workout supplements before and is not recommended for beginners or those sensitive to caffeine due to its high stimulant content."
+            },
+            {
+                "id": 79,
+                "productId": 4,
+                "question": "How do I take Warflex™?",
+                "answer": "Start with ½ scoop blended in 4–6 oz (120–180 ml) of water 30 minutes before exercise to assess tolerance. If well tolerated, take 1 full scoop mixed in 8–10 oz (240–300 ml) of water 30 minutes before your workout. Do not exceed 1 serving per day."
+            },
+            {
+                "id": 80,
+                "productId": 4,
+                "question": "What ingredients are included in Warflex™?",
+                "answer": "Each serving includes Beta-Alanine (2000 mg), Creatine Monohydrate (1000 mg), L-Citrulline (1000 mg), Creatine HCl (500 mg), Taurine (500 mg), Alpha GPC (50%), Eria Jarensis Extract, Agmatine Sulfate, Beet Root Extract, Juniper Berry Extract, Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, Caffeine HCl, Citrus Aurantium Extract, L-Theanine, Alpha Yohimbine, Boron Citrate, and Huperzine-A."
+            },
+            {
+                "id": 81,
+                "productId": 4,
+                "question": "Does Warflex™ contain caffeine?",
+                "answer": "Yes. Warflex™ contains multiple caffeine sources including Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, and Caffeine HCl to help support alertness, workout readiness, and energy."
+            },
+            {
+                "id": 82,
+                "productId": 4,
+                "question": "Does Warflex™ contain creatine?",
+                "answer": "Yes. Warflex™ contains Creatine Monohydrate and Creatine HCl (CreaCCL®) to support high-intensity exercise performance with regular resistance exercise."
+            },
+            {
+                "id": 83,
+                "productId": 4,
+                "question": "What are the benefits of Boron Citrate in Warflex™?",
+                "answer": "Boron Citrate is a trace mineral commonly included in sports nutrition formulas. It plays a role in normal mineral metabolism and is frequently used in advanced performance supplements."
+            },
+            {
+                "id": 84,
+                "productId": 4,
+                "question": "Is Warflex™ suitable for beginners?",
+                "answer": "No. Warflex™ is intended for advanced users, and the label clearly states \"Not for Beginners.\" New users should consider a lower-stimulant pre-workout and always assess their tolerance."
+            },
+            {
+                "id": 85,
+                "productId": 4,
+                "question": "Can I take Warflex™ every day?",
+                "answer": "Take Warflex™ only as directed on the product label and do not exceed 1 serving per day. If you have questions about regular use, consult a qualified healthcare professional."
+            },
+            {
+                "id": 86,
+                "productId": 4,
+                "question": "Can I combine Warflex™ with other supplements?",
+                "answer": "Warflex™ may be used with other compatible sports nutrition products. However, due to its high caffeine and stimulant content, do not combine it with other stimulant supplements or energy drinks."
+            },
+            {
+                "id": 87,
+                "productId": 4,
+                "question": "Is Warflex™ manufactured in a quality-certified facility?",
+                "answer": "Yes. According to the product label, Warflex™ is manufactured and developed exclusively for Promolecules in a cGMP-certified facility, supporting consistent manufacturing standards."
+            },
+            {
+                "id": 88,
+                "productId": 4,
+                "question": "Where can I buy Warflex™?",
+                "answer": "You can purchase Warflex™ directly from the official Promolecules website or through authorized retail partners to help ensure product authenticity."
+            }
+        ],
+        "reviews": [
+            {
+                "id": 3,
+                "productId": 4,
+                "userId": 2,
+                "name": "Roshan",
+                "country": null,
+                "rating": 5,
+                "des": "Great product with photos!",
+                "images": [],
+                "isVerified": false,
+                "createdAt": "2026-08-04T10:28:32.928Z"
+            }
+        ]
+    }
+}

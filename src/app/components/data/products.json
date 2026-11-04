@@ -1,0 +1,42 @@
+[
+  {
+    "id": 711,
+    "name": "Earthmaa FenuVital 1500 Fenugreek Supplement - 90 Capsules",
+    "price": 1449,
+    "oldPrice": null,
+    "stockStatus": "In stock",
+    "sku": "SF-2443-XSC4",
+    "createdAt": "2026-07-16",
+    "status": "Published"
+  },
+  {
+    "id": 695,
+    "name": "Father of Insane V.2 High Stim Pre-Workout - 30 Servings",
+    "price": 854,
+    "oldPrice": 899,
+    "stockStatus": "In stock",
+    "sku": "SF-2443-KGJS",
+    "createdAt": "2026-07-07",
+    "status": "Published"
+  },
+  {
+    "id": 694,
+    "name": "Nutrex Research Lipo-6 Hers Ultra Concentrate for Women",
+    "price": 1499,
+    "oldPrice": 2999,
+    "stockStatus": "Out of stock",
+    "sku": "SF-2443-XEYS",
+    "createdAt": "2026-06-12",
+    "status": "Published"
+  },
+  {
+    "id": 693,
+    "name": "Nutrex Research Lipo-6 Hardcore - Metabolism & Energy Support",
+    "price": 2499,
+    "oldPrice": 3599,
+    "stockStatus": "Out of stock",
+    "sku": "SF-2443-AL1S",
+    "createdAt": "2026-06-12",
+    "status": "Published"
+  }
+]
